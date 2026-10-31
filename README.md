@@ -224,7 +224,10 @@ CivicTrack implements:
 4. V.Karthik Reddy – Testing and documentation lead - Application testing, bug identification, README documentation and project presentation.
 
 ## 14. Screenshots and Demo
-Demo Video - 
+
+Demo Video - https://drive.google.com/file/d/1ipay9KIIz9P_Z61UObljbjEtfxma5WEx/view?usp=drivesdk
+
+
 <img width="945" height="488" alt="Screenshot 2026-10-31 164304" src="https://github.com/user-attachments/assets/1ccd464b-4e06-484a-a2b4-1ade4b04bfc8" />
 <img width="925" height="419" alt="Screenshot 2026-10-31 164425" src="https://github.com/user-attachments/assets/9f8f9f17-6608-4219-b68f-0dc68df3747a" />
 <img width="948" height="493" alt="Screenshot 2026-10-31 164347" src="https://github.com/user-attachments/assets/06eee6e2-8771-4160-bbfe-9fd80453147d" />
