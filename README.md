@@ -218,14 +218,20 @@ CivicTrack implements:
 **Problem Statement:** HACK-P423 – Public Grievance Tracker
 
 **Team Members:**
-1. [Member 1 – Name and Role]
-2. [Member 2 – Name and Role]
-3. [Member 3 – Name and Role]
-4. [Member 4 – Name and Role]
+1. U.Vivek Varma – Frontend developer - User interface development, page design and citizen dashboard
+2. K.Sirivennela – Backend developer - API development, server-side logic and database integration
+3. P.Mokshajna – Full-Stack developer & integration lead - Frontend-backend integration, authentication workflow, deployment and overall project coordination.
+4. V.Karthik Reddy – Testing and documentation lead - Application testing, bug identification, README documentation and project presentation.
 
 ## 14. Screenshots and Demo
+Demo Video - 
+<img width="945" height="488" alt="Screenshot 2026-10-31 164304" src="https://github.com/user-attachments/assets/1ccd464b-4e06-484a-a2b4-1ade4b04bfc8" />
+<img width="925" height="419" alt="Screenshot 2026-10-31 164425" src="https://github.com/user-attachments/assets/9f8f9f17-6608-4219-b68f-0dc68df3747a" />
+<img width="948" height="493" alt="Screenshot 2026-10-31 164347" src="https://github.com/user-attachments/assets/06eee6e2-8771-4160-bbfe-9fd80453147d" />
+<img width="927" height="479" alt="Screenshot 2026-10-31 164439" src="https://github.com/user-attachments/assets/302b19c4-eb6e-4013-979f-90e472a37c60" />
 
-Add application screenshots and the project demonstration video link here.
+
+
 
 ## 15. Conclusion
 
